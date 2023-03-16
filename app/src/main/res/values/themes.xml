@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ExamTimer" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">#1C99D5</item>
+        <item name="colorAccent">#E8C88A</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
